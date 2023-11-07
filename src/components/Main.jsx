@@ -14,7 +14,7 @@ const Main= () =>{
                <label for="n">Submit: &emsp;</label>
             <input id="n" type="box" placeholder="click"></input>
 
-            <input></input>
+            <br></br>
 
 
         </div>
