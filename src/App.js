@@ -1,11 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import Main from './components/Main';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div>
-      <h1>Hello World</h1>
-      <p>Hello</p>
+      <Navbar />
+      <Main />
+      <Footer />
     </div>
   );
 }
