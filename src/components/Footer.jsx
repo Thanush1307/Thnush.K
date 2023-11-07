@@ -6,8 +6,10 @@ const Footer= () =>{
            
            <hr></hr>
            
+<center>
 
            <h2>727722euit205@skcet.ac.in</h2>
+</center>
 
            
            <hr></hr>

@@ -3,6 +3,8 @@ import React from "react";
 const Main= () =>{
     return(
         <div>
+            <center>
+
                <label for="name">Email Id: &emsp;</label>
               <input  id="name" type="box" placeholder="Email ID"></input>
            <br>
@@ -16,6 +18,7 @@ const Main= () =>{
 
             <br></br>
 
+            </center>
 
         </div>
     );
