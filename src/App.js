@@ -9,9 +9,7 @@ function App() {
     </div>
   );
 }
-
 export default App;
-
 /*import React from 'react';
 import FruitSurvey from "./Day-4/FruitSurvey";
 function App() {
@@ -62,7 +60,7 @@ function App() {
 }
 export default App;
 /*import  "./App.css";
-import Style from "./Day-2/Style";
+import InlineStyle from "./Day-2/InlineStyle";
 function App(){
   return(
     <div>
