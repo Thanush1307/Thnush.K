@@ -1,4 +1,4 @@
-/*import React from 'react';
+import React from 'react';
 import ReactLifeCycle from './Day-5/ReactLifeCycle.jsx';
 
 function App() {
