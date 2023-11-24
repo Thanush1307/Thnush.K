@@ -1,10 +1,10 @@
 import React from 'react';
-import DialogueBox from './Day-4/DialogueBox.jsx';
+import RealLifeCycle from './Day-5/RealLifeCycle.jsx';
 
 function App() {
   return(
     <div>
-      <DialogueBox/>
+      <RealLifeCycle/>
     </div>
   );
 }
