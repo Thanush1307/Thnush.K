@@ -1,10 +1,24 @@
-import React from 'react';
-import RealLifeCycle from './Day-5/RealLifeCycle.jsx';
+/*import React from 'react';
+import ReactLifeCycle from './Day-5/ReactLifeCycle.jsx';
 
 function App() {
   return(
     <div>
-      <RealLifeCycle/>
+      <ReactLifeCycle/>
+    </div>
+  );
+}
+
+export default App;
+
+
+/*import React from 'react';
+import DialogueBox from './Day-4/DialogueBox.jsx';
+
+function App() {
+  return(
+    <div>
+      <DialogueBox/>
     </div>
   );
 }
